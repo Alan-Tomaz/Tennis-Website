@@ -1,0 +1,56 @@
+body {
+
+}
+
+.header-1 {
+display: block;
+font-family: 'Dancing Script', cursive;
+height: 150px;
+background-color: yellow;
+margin: 0;
+}
+
+.header-1 h1 {
+	display: block;
+	font-size: 50px;
+	text-align: center;
+	line-height: 150px;
+	margin: 0;
+}
+
+.header-1 h1 img {
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	padding-bottom: 10px;
+} 
+
+.background-1 {
+	height: 10px;
+	background-color: white;
+}
+
+.nav-1 {
+	height: 50px;
+	background-color: black;
+}
+
+.nav-1 ul {
+	margin: 0;
+	padding: 0;
+}
+
+.nav-1 ul li {
+	display: inline-block;
+	height: 50px;
+	width: 25%;
+}
+
+.nav-1 ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+.nav-1 ul li a:hover {
+	color: pink;
+}
